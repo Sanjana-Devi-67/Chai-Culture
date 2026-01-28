@@ -21,7 +21,7 @@ The design focuses on warm tones, elegant typography, and subtle motion to evoke
 
 ## Live Demo
 The project is deployed and accessible via a live link (Netlify / Vercel).
-### Link:https://remarkable-custard-116ca4.netlify.app/
+#### Link:https://remarkable-custard-116ca4.netlify.app/
 
 ## Notes
 This project was built as a concept “Coming Soon” page with a focus on frontend design, responsiveness, and code quality. The structure is kept flexible to allow future enhancements such as backend integration or form handling.
